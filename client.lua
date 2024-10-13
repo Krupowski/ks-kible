@@ -16,8 +16,8 @@ exports.ox_target:addModel(toiletModel, {
 })
 
 
-RegisterNetEvent('esx_toilet:useToilet')
-AddEventHandler('esx_toilet:useToilet', function()
+RegisterNetEvent('ks_kible:useToilet')
+AddEventHandler('ks_kible:useToilet', function()
     local playerPed = PlayerPedId()
     RequestAnimDict('timetable@jimmy@doorknock@')
     while not HasAnimDictLoaded('timetable@jimmy@doorknock@') do
