@@ -10,7 +10,7 @@ exports.ox_target:addModel(toiletModel, {
             return true 
         end,
         onSelect = function(data)
-            TriggerEvent('esx_toilet:useToilet')
+            TriggerEvent('ks-kible:useToilet')
         end
     }
 })
