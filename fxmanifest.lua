@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Krupowski'
+author 'Krupowski Studio'
 description 'Skibidi Toleta do używania by Krupowski'
 version '1.0.0'
 
